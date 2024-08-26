@@ -1,0 +1,15 @@
+C:\Users\klay kai\Documents\celsuistofahrenheit\obj\Debug\net8.0\celsuistofahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klay kai\Documents\celsuistofahrenheit\obj\Debug\net8.0\celsuistofahrenheit.AssemblyInfoInputs.cache
+C:\Users\klay kai\Documents\celsuistofahrenheit\obj\Debug\net8.0\celsuistofahrenheit.AssemblyInfo.cs
+C:\Users\klay kai\Documents\celsuistofahrenheit\obj\Debug\net8.0\celsuistofahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\klay kai\Documents\celsuistofahrenheit\obj\Debug\net8.0\celsuistofahrenheit.sourcelink.json
+C:\Users\klay kai\Documents\celsuistofahrenheit\bin\Debug\net8.0\celsuistofahrenheit.exe
+C:\Users\klay kai\Documents\celsuistofahrenheit\bin\Debug\net8.0\celsuistofahrenheit.deps.json
+C:\Users\klay kai\Documents\celsuistofahrenheit\bin\Debug\net8.0\celsuistofahrenheit.runtimeconfig.json
+C:\Users\klay kai\Documents\celsuistofahrenheit\bin\Debug\net8.0\celsuistofahrenheit.dll
+C:\Users\klay kai\Documents\celsuistofahrenheit\bin\Debug\net8.0\celsuistofahrenheit.pdb
+C:\Users\klay kai\Documents\celsuistofahrenheit\obj\Debug\net8.0\celsuistofahrenheit.dll
+C:\Users\klay kai\Documents\celsuistofahrenheit\obj\Debug\net8.0\refint\celsuistofahrenheit.dll
+C:\Users\klay kai\Documents\celsuistofahrenheit\obj\Debug\net8.0\celsuistofahrenheit.pdb
+C:\Users\klay kai\Documents\celsuistofahrenheit\obj\Debug\net8.0\celsuistofahrenheit.genruntimeconfig.cache
+C:\Users\klay kai\Documents\celsuistofahrenheit\obj\Debug\net8.0\ref\celsuistofahrenheit.dll
